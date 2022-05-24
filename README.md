@@ -1,2 +1,2 @@
 # academic-assignments
-data structures, algorithms
+data structures, algorithms, compilers, ai.
