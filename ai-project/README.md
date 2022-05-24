@@ -1,0 +1,2 @@
+In this project we used some attributes of a game named Valornat’s match history to predict the game’s outcome for a player, which means if a player wins or loses a match.
+We used K Nearest Neighbor Classifier and Gaussian Naive Bayes Classifier as machine learning models to predict the win/loss condition.
